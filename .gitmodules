@@ -1,0 +1,11 @@
+[submodule "assets/Leaflet"]
+	path = assets/Leaflet
+	url = https://github.com/Leaflet/Leaflet.git
+	branch = stable
+[submodule "assets/leaflet-providers"]
+	path = assets/leaflet-providers
+	url = https://github.com/leaflet-extras/leaflet-providers.git
+	branch = release
+[submodule "assets/leaflet-gpx"]
+	path = assets/leaflet-gpx
+	url = https://github.com/mpetazzoni/leaflet-gpx.git
